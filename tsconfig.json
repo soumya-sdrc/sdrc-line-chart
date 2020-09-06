@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/line-chart-lib/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/line-chart-lib/tsconfig.spec.json"
+    }
+]
 }
